@@ -169,7 +169,3 @@ A detailed write-up of the methodology, experiments, and per-model evaluation is
 ## 📚 Data Source
 
 Spotify Songs dataset (~32k tracks) sourced from Kaggle, originally collected via the Spotify Web API.
-
-## 📝 License
-
-Released under the **MIT License** — feel free to use, modify, and build on this work.
